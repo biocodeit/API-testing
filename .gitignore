@@ -5,5 +5,5 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
-./api-testing/helpers/.env
-./sum.ts
+/api-testing/helpers/.env
+/sum.ts
