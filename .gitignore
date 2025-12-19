@@ -6,3 +6,4 @@ node_modules/
 /playwright/.cache/
 /playwright/.auth/
 ./api-testing/helpers/.env
+./sum.ts
