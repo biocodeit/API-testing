@@ -16,9 +16,10 @@ Playwright · TypeScript · Node.js · Auth0 · dotenv
 ## Usage
 ```
 git clone https://github.com/biocodeit/API-testing.git
+cd API-testing
 npm install
-cp helpers/.env.example helpers/.env
-# add your Auth0 credentials
+cp api-testing/helpers/.env.example api-testing/helpers/.env
+# add your Auth0 credentials in .env
 npx playwright test
 ```
 
